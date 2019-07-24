@@ -2,7 +2,7 @@
 
 int main() {
     int a, b;
-    printf("So thu nhat: a= ");
+    printf("So thu nhat: dsfasdf= ");
     scanf("%d", &a);
     printf("So thu 2: b= ");
     scanf("%d", &b);

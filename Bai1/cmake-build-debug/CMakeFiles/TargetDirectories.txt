@@ -1,3 +1,0 @@
-C:/Users/DungXinh/Documents/BaiTap24_07/Bai1/cmake-build-debug/CMakeFiles/Bai1.dir
-C:/Users/DungXinh/Documents/BaiTap24_07/Bai1/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/DungXinh/Documents/BaiTap24_07/Bai1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
